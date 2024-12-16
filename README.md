@@ -6,7 +6,7 @@
 Ce projet :dart: ambitieux couvre tout le processus, de la collecte des données brutes à l'analyse approfondie et au développement d'insights. L'enjeu majeur est de rendre le championnat local plus attractif pour les passionnés de football. </p>
 
 ## Objectifs 🎯
-<b>Data</b> :label:: Données détaillées sur les matchs :soccer:, les joueurs, les équipes et les performances du championnat de Ligue 1 sénégalaise.<br>
+<b>Data</b> :label:: Données détaillées sur les matchs :soccer:, les joueurs et les équipes du championnat de Ligue 1.<br>
 <b>Analyse</b> :bar_chart:: Utiliser des techniques avancées de data science et de machine learning pour extraire des insights significatifs et pertinents.<br>
 <b>Insights</b> :mag_right: : Créer des rapports et des visualisations interactives pour présenter les performances et les tendances du championnat.<br>
 <b>Valeur ajoutée </b> :pencil:: Pour les médias :tv:, les sponsors et les fans et la promotion du football sénégalais :senegal: à l'échelle locale et internationale.<br>
